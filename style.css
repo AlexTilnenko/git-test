@@ -21,3 +21,8 @@ p {
    box-sizing: border-box;
 }
 
+button {
+   margin: 0;
+   font-size: 1.3rem;
+}
+
