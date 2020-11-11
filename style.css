@@ -10,11 +10,6 @@ h1 {
    padding: 0;
 }
 
-p {
-   font-size: 1.2rem;
-   color: #000;
-}
-
 *,
 *::after,
 *::before {
