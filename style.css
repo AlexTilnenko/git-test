@@ -14,3 +14,15 @@ p {
    font-size: 1.2rem;
    color: #000;
 }
+
+*,
+*::after,
+*::before {
+   box-sizing: border-box;
+}
+
+button {
+   margin: 0;
+   font-size: 1.3rem;
+}
+
